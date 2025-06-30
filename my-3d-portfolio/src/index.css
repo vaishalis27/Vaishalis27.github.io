@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background: #0a0a23;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+.overlay {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  color: #d4a5ff;
+}
+.title {
+  font-size: 3rem;
+}
+.subtitle {
+  font-size: 1.5rem;
+  color: #eee;
+}
+.project-card {
+  background: #1f1f3a;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
